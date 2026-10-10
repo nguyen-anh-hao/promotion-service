@@ -37,3 +37,4 @@ npm start
 | **v1.1.0** | **Asynchronous Event Ingestion** | Consume trade execution streams from Kafka via `kafkajs`. Idempotent quest progress updates using Redis HyperLogLog / Bitmaps. |
 | **v1.2.0** | **High-Performance Voucher Rules Engine** | Implement compiled rule trees (using RETE algorithm or WASM-based rule evaluator) to evaluate complex tiered discount conditions in under 100 microseconds. |
 | **v2.0.0** | **Real-Time Streaming State Machine** | Transition to stateful stream processing (Flink or Redis Streams state machine) to power real-time trading leaderboards and zero-latency flash rewards. |
+
